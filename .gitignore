@@ -1,0 +1,11 @@
+.env
+data/
+docs/
+wa-server/
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+.idea/

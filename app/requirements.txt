@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+blinkpy
+python-dotenv
+httpx
+aiofiles
